@@ -23,6 +23,8 @@
 			echo "<br> <strong>{$message}</script>";
 		}
 		?>
+		<br><br>
+		<a href="https://gibhub.com/xlaming/cpfvalidator">CPFValidator - Open Source</a>
 	</div>
 </body>
 </html>
