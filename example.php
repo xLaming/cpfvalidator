@@ -24,7 +24,7 @@
 		}
 		?>
 		<br><br>
-		<a href="https://gibhub.com/xlaming/cpfvalidator">CPFValidator - Open Source</a>
+		<a href="https://github.com/xlaming/cpfvalidator">CPFValidator - Open Source</a>
 	</div>
 </body>
 </html>
